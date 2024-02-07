@@ -1,22 +1,14 @@
-## Perfil de usuario
+ # Bienvendos
+ ## Perfil de Liviu Pop 
 
-Actualmente soy **estudiante** de **computacion y robotica** en el **IES José de MORA**
+ weste texto utiliza el lenguaje **Markdown**
+ Para hacer *parrafos* nuevos tengo que usar el "enter" dos veces.
 
-Estoy enseñando a los alumnos a manejar **GITHub**
+ Con una sola, no hace parrafos.
 
--ME GUSTA
+ ### Listas y enumeraciones.
 
-<!--
-**lpoprec1201/lpoprec1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Se hacen con el guión (+ espacio)
+ - Para pomer un asterisco, aqui en medio no pasa nada: *. sepone solo.
+ - Pero si pongo otro, *, al estar separado por espacios no pasa nada.
+ - Y si tengo que poner dos pegados a una palabra, ahi hay un problema
